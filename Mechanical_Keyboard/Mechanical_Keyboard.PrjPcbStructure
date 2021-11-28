@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Mechanical-Keyboard.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Mechanical-Keyboard.SchDoc|Designator=U_Key-Matrix|SchDesignator=U_Key-Matrix|FileName=Key-Matrix.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Key-Matrix.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Mechanical-Keyboard.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Mechanical-Keyboard.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

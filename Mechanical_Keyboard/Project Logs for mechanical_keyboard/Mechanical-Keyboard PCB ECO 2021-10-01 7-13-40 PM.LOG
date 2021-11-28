@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=Y1-2
+Removed Pin From Net: NetName=PH1 Pin=Y1-3
+Removed Pin From Net: NetName=GND Pin=Y1-4
+Change Component Footprint: Designator=Y1 Old Footprint=ABRACON ABM10 New Footprint=ABRA-ABLS-14.7456MHZ-B2-T_V
+Change Component Comment : Designator=C3 Old Comment=4pF New Comment=6pF
+Change Component Comment : Designator=C4 Old Comment=4pF New Comment=6pF
+Change Component Comment : Designator=Y1 Old Comment=24MHz New Comment=ABLS-24.000MHZ-D-R60-1-W-T
+Change Managed Component Library Link : Designator=Y1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D6DF8035-D41B-4F63-9DEE-5E60B22C69C3 Old RevisionGUID= New RevisionGUID=4B1EF1B8-61F6-43E7-911D-038F24A4F3D3
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "ABRACON ABM10"; UniqueID = "\LLUOOBZG\NZGVNZTW" ("\LLUOOBZG\NZGVNZTW")
+Change component parameters (AddParameter): Name = "Brand"; Value = "ABRACON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Height"; Value = "4.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Length"; Value = "11.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Width"; Value = "4.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.abracon.com/Resonators/abls.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "04/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimensions"; Value = "4.7mmWx11.4mmLx4.2mmH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR"; Value = "80Ohms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "8MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Stability"; Value = "50PPM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ABRACON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.abracon.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-20Cto+70C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "HC-49/US"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 11.4 x 4.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "ABLS-14.7456MHZ-B2-T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://www.abracon.com/Support/PackageDrawing/Resonators/ABLS-2D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Crystals"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "ABLS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "30PPM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LowProfileMicroprocessorCrystal"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PH1 Pin=Y1-2

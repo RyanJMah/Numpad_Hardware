@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Mechanical-Keyboard.PcbDoc   2021-11-27  8:58:15 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Mechanical-Keyboard.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             249       PTH        0.00inch (0.00mm)
+T2      17mil (0.432mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T4      59mil (1.5mm)                                             Round             34        PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+T6      157mil (4mm)                                              Round             17        NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              316
+
+Total Processing Time (hh:mm:ss) : 00:00:00
